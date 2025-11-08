@@ -2,7 +2,7 @@
 
 ## Where you loaded from
 Loaded the **Silver-layer curated_reviews Delta table** from:
-`abfss://lakehouse@goodreadsreviews60XXXXXX.dfs.core.windows.net/processed/curated_reviews/`
+`abfss://lakehouse@goodreadsreviews60301813.dfs.core.windows.net/processed/curated_reviews/`
 
 ## What cleaning was done
 - Removed nulls and duplicates  
